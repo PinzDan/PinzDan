@@ -1,1 +1,1 @@
-![Metrics](/kingPak.jpg)
+![Metrics](/metrics.classic.svg)
