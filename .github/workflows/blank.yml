@@ -18,3 +18,7 @@ jobs:
         with:
           token: ${{ secrets.METRIC_TOKENS }}
           filename: github-metrics.svg
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
