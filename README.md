@@ -3,7 +3,7 @@
     <!-- LEFT: INTRO -->
     <td valign="top" width="65%">
 
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" /> My name is DanPinz
+# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" style="border-radius:12px;"/> My name is DanPinz
 
 ### Programming student | Personal projects
 
@@ -86,11 +86,6 @@ Self-taught background, diploma in Computer Science & Telecommunications, curren
 <p>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" alt="Photoshop"/></a>
 </p>
-
-    </td>
-
-    <!-- RIGHT: ACTIVITY + SOCIALS + FOLLOWERS -->
-    <td valign="top" width="45%">
 
 ## 🔥 GitHub Activity
 
