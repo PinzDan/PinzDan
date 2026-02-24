@@ -134,8 +134,9 @@ style="transform:scale(0.85); transform-origin:right;"
 </p>
   </tr>
   </td>
-  ## 🔥 GitHub Activity
+ 
 <td>
+   ## 🔥 GitHub Activity
   <p align="center">
   <a href="https://github.com/PinzDan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinzDan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
