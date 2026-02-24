@@ -23,78 +23,54 @@
     </td>
     <!-- RIGHT: IMAGE + SOCIAL -->
     <td valign="top" width="35%" align="center">
-      <img
-        src="./kingPak.jpg"
-        alt="Profile image"
-        width="260"
-        style="border-radius:50%;"
-      />
-      <div style="margin-top:20px;tet-align:right">
-        <h3>🌐 Socials</h3>
-        <p>
-          <a
-            href="https://www.github.com/PinzDan"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-              width="32"
-              height="32"
-              alt="GitHub"
-            />
-          </a>
-          <a
-            href="https://www.linkedin.com/in/danilo-pinzone-858a74236/"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
-              width="32"
-              height="32"
-              alt="LinkedIn"
-            />
-          </a>
-          <a
-            href="https://www.codepen.io/PinzDan"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg"
-              width="32"
-              height="32"
-              alt="CodePen"
-            />
-          </a>
-          <a
-            href="https://discord.com/users/danpinz."
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
-              width="32"
-              height="32"
-              alt="Discord"
-            />
-          </a>
-        </p>
-        <p>
-          <a
-            href="https://github.com/PinzDan"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img
-              src="https://img.shields.io/github/followers/PinzDan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
-              alt="GitHub followers"
-            />
-          </a>
-        </p>
-      </div>
-    </td>
+
+<img
+  src="./kingPak.jpg"
+  alt="Profile image"
+  width="260"
+  style="border-radius:50%;"
+/>
+
+<div style="margin-top:16px; text-align:right; width:100%;">
+
+<h3 style="margin-bottom:6px;">🌐 Socials</h3>
+
+<p>
+
+<a href="https://www.github.com/PinzDan" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
+width="22" height="22" />
+</a>
+
+<a href="https://www.linkedin.com/in/danilo-pinzone-858a74236/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg"
+width="22" height="22" />
+</a>
+
+<a href="https://www.codepen.io/PinzDan" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg"
+width="22" height="22" />
+</a>
+
+<a href="https://discord.com/users/danpinz." target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg"
+width="22" height="22" />
+</a>
+
+</p>
+
+<p>
+<a href="https://github.com/PinzDan">
+<img
+src="https://img.shields.io/github/followers/PinzDan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
+style="transform:scale(0.85); transform-origin:right;"
+/>
+</a>
+</p>
+
+</div>
+
+</td>
   </tr>
 </table>
 ---
