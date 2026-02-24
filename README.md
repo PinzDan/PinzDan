@@ -1,4 +1,4 @@
-<table style="border=0px">
+<table style="border:none; border-collapse:collapse;">
   <tr>
     <!-- LEFT: INTRO -->
     <td valign="top" width="65%">
@@ -73,7 +73,7 @@ style="transform:scale(0.85); transform-origin:right;"
 </td>
   </tr>
 </table>
-<table>
+<table style="border:none; border-collapse:collapse;">
   <tr>
     <!-- LEFT: TECH STACK -->
 <td valign="top" width="55%">
@@ -135,10 +135,12 @@ style="transform:scale(0.85); transform-origin:right;"
   </tr>
   </td>
   ## 🔥 GitHub Activity
-
-<p align="center">
+<td>
+  <p align="center">
   <a href="https://github.com/PinzDan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinzDan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </p>
+</td>
+
 </table>
