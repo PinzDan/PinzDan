@@ -23,12 +23,11 @@
     </td>
     <!-- RIGHT: IMAGE + SOCIAL -->
     <td valign="top" width="35%" align="center";style="border:none;">
-
+<h1 style="margin-top:0;">
 <img
   src="./kingPak.jpg"
   alt="Profile image"
   width="260"
-  style="border-radius:50%;"
 />
 
 <div style="margin-top:16px; text-align:right; width:100%;">
