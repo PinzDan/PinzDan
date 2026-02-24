@@ -1,68 +1,75 @@
 <table>
   <tr>
+
     <!-- LEFT: INTRO -->
     <td valign="top" width="65%">
 
-# Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" /> My name is DanPinz
+<h1>
+  Hi 
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" alt="wave" />
+  My name is DanPinz
+</h1>
 
-### Programming student | Personal projects
+<h3>Programming student | Personal projects</h3>
 
-22 y/o computer engineering student with a long-standing passion for computer science.  
+<p>
+22 y/o computer engineering student with a long-standing passion for computer science.<br>
 Self-taught background, diploma in Computer Science & Telecommunications, currently studying Computer Engineering.
+</p>
 
-- 🌍 I'm based in Italy  
-- ✉️ You can contact me at **[danpinz02@gmail.com](mailto:danpinz02@gmail.com)**  
-- 🧠 Currently learning: **React · Tailwind CSS · Lua · .NET**  
-- 👥 Open to collaborate on learning projects, small applications, and open-source projects (frontend & software dev)  
-- 💬 This profile collects study projects, experiments, and learning progress  
+<ul>
+  <li>🌍 I'm based in Italy</li>
+  <li>✉️ You can contact me at <b><a href="mailto:danpinz02@gmail.com">danpinz02@gmail.com</a></b></li>
+  <li>🧠 Currently learning: <b>React · Tailwind CSS · Lua · .NET</b></li>
+  <li>👥 Open to collaborate on learning projects, small applications, and open-source projects</li>
+  <li>💬 This profile collects study projects, experiments, and learning progress</li>
+</ul>
 
     </td>
 
-    <!-- RIGHT: IMAGE -->
+    <!-- RIGHT: IMAGE + SOCIAL -->
     <td valign="top" width="35%" align="center">
-      <img src="./kingPak.jpg" alt="Profile image" width="260" style="border-radius:50%";/></td></br>
 
-      ### 🌐 Socials
-<p align="left">
-  <a href="https://www.github.com/PinzDan" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
-    </picture>
-  </a>
-  <a href="https://www.linkedin.com/in/danilo-pinzone-858a74236/" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    </picture>
-  </a>
-  <a href="https://www.codepen.io/PinzDan" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" />
-    </picture>
-  </a>
-  <a href="https://discord.com/users/danpinz." target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-    </picture>
-  </a>
-</p>
+      <img src="./kingPak.jpg"
+           alt="Profile image"
+           width="260"
+           style="border-radius:50%;" />
 
-<p align="left">
-  <a href="https://github.com/PinzDan" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/PinzDan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" alt="GitHub followers" />
-  </a>
-</p>
+      <div style="margin-top:20px;">
+
+        <h3>🌐 Socials</h3>
+
+        <p>
+          <a href="https://www.github.com/PinzDan" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" />
+          </a>
+
+          <a href="https://www.linkedin.com/in/danilo-pinzone-858a74236/" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+          </a>
+
+          <a href="https://www.codepen.io/PinzDan" target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" />
+          </a>
+
+          <a href="https://discord.com/users/danpinz." target="_blank" rel="noreferrer">
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
+          </a>
+        </p>
+
+        <p>
+          <a href="https://github.com/PinzDan" target="_blank" rel="noreferrer">
+            <img src="https://img.shields.io/github/followers/PinzDan?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917"
+                 alt="GitHub followers" />
+          </a>
+        </p>
+
+      </div>
+
     </td>
+
   </tr>
 </table>
-
 ---
 
 <table>
