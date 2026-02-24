@@ -1,4 +1,4 @@
-<table>
+<table style="border=0px">
   <tr>
     <!-- LEFT: INTRO -->
     <td valign="top" width="65%">
@@ -29,7 +29,7 @@
         width="260"
         style="border-radius:50%;"
       />
-      <div style="margin-top:20px;">
+      <div style="margin-top:20px;tet-align:right">
         <h3>🌐 Socials</h3>
         <p>
           <a
