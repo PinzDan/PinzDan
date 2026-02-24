@@ -73,12 +73,10 @@ style="transform:scale(0.85); transform-origin:right;"
 </td>
   </tr>
 </table>
----
-
 <table>
   <tr>
     <!-- LEFT: TECH STACK -->
-    <td valign="top" width="55%">
+<td valign="top" width="55%">
 
 ## 🧠 Tech Stack
 
@@ -134,13 +132,13 @@ style="transform:scale(0.85); transform-origin:right;"
 <p>
 <a href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" alt="Photoshop"/></a>
 </p>
-
-## 🔥 GitHub Activity
+  </tr>
+  </td>
+  ## 🔥 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/PinzDan">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=PinzDan&stroke=ffffff&background=1c1917&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
   </a>
 </p>
-  </tr>
 </table>
