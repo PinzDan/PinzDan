@@ -44,7 +44,6 @@
               alt="GitHub"
             />
           </a>
-
           <a
             href="https://www.linkedin.com/in/danilo-pinzone-858a74236/"
             target="_blank"
@@ -57,7 +56,6 @@
               alt="LinkedIn"
             />
           </a>
-
           <a
             href="https://www.codepen.io/PinzDan"
             target="_blank"
@@ -70,7 +68,6 @@
               alt="CodePen"
             />
           </a>
-
           <a
             href="https://discord.com/users/danpinz."
             target="_blank"
@@ -84,7 +81,6 @@
             />
           </a>
         </p>
-
         <p>
           <a
             href="https://github.com/PinzDan"
